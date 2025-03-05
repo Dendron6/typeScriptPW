@@ -22,3 +22,12 @@ package-lock.json
 # OS files
 .DS_Store
 Thumbs.db
+playwright/.auth/*
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
